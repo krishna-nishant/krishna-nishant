@@ -3,10 +3,11 @@
 
 - 👀 I’m interested in Web Development  
   
-
+  
 - 🌱 I’m currently learning JavaScript and Python  
   
-
+  
+- 😶‍🌫️ Having good knowledge of HTML and CSS 
   
   
 
