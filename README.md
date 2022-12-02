@@ -9,7 +9,7 @@
 - 👀 I’m interested in Web Development  
   
 
-- 🌱 I’m currently learning HTML and CSS  
+- 🌱 I’m currently learning JavaScript and Python  
   
 
   
